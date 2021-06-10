@@ -43,6 +43,8 @@ Dodger isn't the same speed throughout the jump
 
 For downwards movement, simply falling is always the best option as stomping has two slow animations, and you typically want to save Gun for more useful things than upboosts.
 
+Usurper has by far the shortest charge shot cooldown, followed by Stun Gun, then Roller Bomb. Hence, most movement is performed with the Stun Gun until it is replaced by Usurper.
+
 ## Credits
 Ptkyr - write up, images
 
