@@ -6,6 +6,8 @@ Elro normally moves ridiculously slowly. This can be mitigated by damage boostin
 
 ![](Media/elrodboost.gif)
 
+This can also be used to gain speed from trading hits. Elro's `Gun` sword swing has a very small rear hitbox, and can cause trades when parrying projectiles. This is useful in the One Concern East section where you must parry a bomb from a sentry in order to progress. You can kill the sentry while damage boosting for the short walk up to the long hallway → https://www.youtube.com/watch?v=fiRLsn9ZjcU.
+
 ## Extending Mina’s dashes
 
 Mina can dash if you press `Down` and `Jump` on the ground. This is her fastest movement on flat ground, and the dash length can be extended if you do them off ledges, preserving the higher speed for longer.
