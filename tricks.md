@@ -25,7 +25,7 @@ You’ll notice that it runs through the textboxes abnormally quickly, and trump
 
 ![](Media/fasttext.gif)
 
-## Infinite wrench glitch (IWG)
+## Infinite wrench glitch
 Used for Kerthunk skip and in the Nightmares segment before the Starworm fight to quickly charge electric wrench for Mina, and to quickly spin the gears for Royal.
 
 Fairly simple to execute, just time the `Wrench` press soon after the background disappears and hold it until at full charge at least.
@@ -59,7 +59,7 @@ Here is an example that abuses the crouched hitbox of dodging into water to push
 
 ![](Media/zips.gif)
 
-## Quantum Leaps (QLs)
+## Quantum leaps
 The game stores a grounded position for Robin and updates this by checking if you’re on the ground exactly every 30 frames (0.5s) and changing it if you are.
 
 This grounded position is stored even when you leave a room or area, so when you quantum leap the game takes your last (x, y) coordinate in the room you were in and places you that many units over, relative to the room that the area transition places you into.
@@ -88,6 +88,6 @@ The trick is frame perfect, or at least very close to that. There are no known c
 ## Crafting from save statues
 The normal crafting stations are very inconveniently placed in the base game for us to use them in any runs. Luckily, we can just craft from any save statue and completely ignore all the regular stations.
 
-To craft from a save statue, go to the `EQUIP TWEAKS` screen after interacting with one. Once there, hold Gun and press Swap. It should take you to a series of instructions about how to craft tweaks. Skip this screen, and you’ll end up in the regular tweak crafting menu, and can make whatever you want from there.
+To craft from a save statue, go to the `EQUIP TWEAKS` screen after interacting with one. Once there, hold `Gun` and press `Swap`. It should take you to a series of instructions about how to craft tweaks. Skip this screen, and you’ll end up in the regular tweak crafting menu, and can make whatever you want from there.
 
 ![](Media/savecraft.gif)
