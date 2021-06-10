@@ -1,6 +1,6 @@
 # Iconoclasts Tech (No Airswim)
 
-This is a document outlining almost all useful tech for speedrunning Iconoclasts. It does not contain any explanations or applications of the Airswim glitch, but many NAS tricks are applicable to all categories.
+This is a document outlining almost all useful tech for speedrunning Iconoclasts. It does not contain any in depth explanations or applications of the Airswim glitch, but many NAS tricks are applicable to all categories.
 
 Leaderboard → https://www.speedrun.com/Iconoclasts
 
