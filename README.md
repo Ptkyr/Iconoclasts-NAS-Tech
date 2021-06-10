@@ -1,6 +1,6 @@
 # Iconoclasts Tech (No Airswim)
 
-This is a document outlining almost all useful tech for speedrunning Iconoclasts. It does not contain any explanations, applications, or functions of the Airswim glitch, but many tricks are applicable to all categories.
+This is a document outlining almost all useful tech for speedrunning Iconoclasts. It does not contain any explanations or applications of the Airswim glitch, but many NAS tricks are applicable to all categories.
 
 Leaderboard → https://www.speedrun.com/Iconoclasts
 
@@ -26,8 +26,8 @@ This contains save files next to the most significant known locations where prel
 Download and transfer each save file to your game, open them, and go through the transitions/cutscenes nearest where you spawn before starting runs for some free timesave over unloaded runs.
 
 **Speed Values**
-* Crawling - 230, 255, 280, 305 (Depends on fleet foot)
-* Walking - 470, 520, 570, 620 (Depends on fleet foot)
+* Crawling - 230, 255, 280, 305 (Depends on Fleet Foot)
+* Walking - 470, 520, 570, 620 (Depends on Fleet Foot)
 * Wall jump - 500 (This boost stays indefinitely like most other things, slight improvement over walking)
 * Gun boost - 600 (If done close to perfectly, otherwise drops off downward)
 * Slope boost - 700
@@ -41,7 +41,7 @@ A gun boost is faster than walking even with 2 fleet foot
 Wall jump is faster than base walk speed
 Dodger isn't the same speed throughout the jump
 
-For downwards movement, simply falling is always the best option as stomping has two slow animations, and you typically want to save Gun for more useful things than upboosts.
+For downwards movement, simply falling is always the best option as stomping has two slow animations, and you typically want to save charge shots for more useful things than upboosts.
 
 Usurper has by far the shortest charge shot cooldown, followed by Stun Gun, then Roller Bomb. Hence, most movement is performed with the Stun Gun until it is replaced by Usurper.
 
