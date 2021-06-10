@@ -30,7 +30,7 @@ Used for Kerthunk skip and in the Nightmares segment before the Starworm fight t
 
 Fairly simple to execute, just time the `Wrench` press soon after the background disappears and hold it until at full charge at least.
 
-Note: refrain from doing random inputs while you have IWG; `Jump`, `Wrench`, `Gun`, and pressing `Down` may mess it up, only use `Left` and `Right` to be safe.
+Note: IWG is rather finicky, so refrain from doing random inputs while you have IWG; `Wrench`, `Gun`, and pressing `Down` may mess it up, only use `Left`, `Right`, and `Jump` to be safe.
 
 ![](Media/iwg.gif)
 
