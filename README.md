@@ -4,7 +4,7 @@ This is a document outlining almost all useful tech for speedrunning Iconoclasts
 
 Leaderboard → https://www.speedrun.com/Iconoclasts
 
-Discord → https://discord.gg/D6BKPfs 
+Discord → https://discord.gg/iconoclasts 
 
 Autosplitter setup guide → https://www.speedrun.com/Iconoclasts/guide/3y77a 
 
