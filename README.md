@@ -8,7 +8,7 @@ Discord → https://discord.gg/D6BKPfs
 
 Autosplitter setup guide → https://www.speedrun.com/Iconoclasts/guide/3y77a 
 
-# Table of Contents
+## Table of Contents
 * [Gun Tech](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Gun%20Tech)
 * [Movement](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Movement)
 * [Dodger](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Dodger)
@@ -16,8 +16,9 @@ Autosplitter setup guide → https://www.speedrun.com/Iconoclasts/guide/3y77a
 * [Skips](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Skips)
 * [Elro and Mina](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Elro%20and%20Mina)
 
-# Miscellaneous Information
+## Miscellaneous Information
 **Preloading**
+
 Certain transitions take noticeably longer to load when you enter them for the first time after booting up the game, meaning you lose time through no fault of your own when you get to these spots in a run.
 
 This contains save files next to the most significant known locations where preloading makes a difference: [Preload saves](https://cdn.discordapp.com/attachments/537723651936485388/572120048530096148/preload.zip) (direct download)
@@ -42,4 +43,13 @@ Dodger isn't the same speed throughout the jump
 
 For downwards movement, simply falling is always the best option as stomping has two slow animations, and you typically want to save Gun for more useful things than upboosts.
 
-# Credits
+## Credits
+Ptkyr - write up, images
+
+DLKurosh - GIFs, videos, revision, preload saves
+
+Serena - videos, speed values
+
+XeroGoFast - videos
+
+PurkisM - videos
