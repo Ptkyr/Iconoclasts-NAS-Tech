@@ -9,12 +9,12 @@ Discord → https://discord.gg/D6BKPfs
 Autosplitter setup guide → https://www.speedrun.com/Iconoclasts/guide/3y77a 
 
 ## Table of Contents
-* [Gun Tech](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Gun%20Tech)
-* [Movement](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Movement)
-* [Dodger](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Dodger)
-* [Tricks](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Tricks)
-* [Skips](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Skips)
-* [Elro and Mina](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/Elro%20and%20Mina)
+* [Gun Tech](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/guntech.md)
+* [Movement](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/movement.md)
+* [Dodger](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/dodger.md)
+* [Tricks](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/tricks.md)
+* [Skips](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/skips.md)
+* [Elro and Mina](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/elroandmina.md)
 
 ## Miscellaneous Information
 **Preloading**
