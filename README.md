@@ -17,7 +17,7 @@ Autosplitter setup guide → https://www.speedrun.com/Iconoclasts/guide/3y77a
 * [Elro and Mina](https://github.com/Ptkyr/Iconoclasts-NAS-Tech/blob/main/elroandmina.md)
 
 ## Miscellaneous Information
-**Preloading**
+### Preloading
 
 Certain transitions take noticeably longer to load when you enter them for the first time after booting up the game, meaning you lose time through no fault of your own when you get to these spots in a run.
 
@@ -25,7 +25,7 @@ This contains save files next to the most significant known locations where prel
 
 Download and transfer each save file to your game, open them, and go through the transitions/cutscenes nearest where you spawn before starting runs for some free timesave over unloaded runs.
 
-**Speed Values**
+### Speed Values
 * Crawling - 230, 255, 280, 305 (Depends on Fleet Foot)
 * Walking - 470, 520, 570, 620 (Depends on Fleet Foot)
 * Wall jump - 500 (This boost stays indefinitely like most other things, slight improvement over walking)
