@@ -8,7 +8,7 @@ Elro normally moves ridiculously slowly. This can be mitigated by damage boostin
 
 ![](Media/elrodboost.gif)
 
-This can also be used to gain speed from trading hits. Elro's `Gun` sword swing has a very small rear hitbox, and can cause trades when parrying projectiles. This is useful in the One Concern East section where you must parry a bomb from a sentry in order to progress. You can kill the sentry while damage boosting for the short walk up to the long hallway → https://www.youtube.com/watch?v=fiRLsn9ZjcU.
+This can also be used to gain speed from trading hits. Elro's `Gun` sword swing has a very small rear hitbox, and can cause trades when parrying projectiles. This is useful in the One Concern East section where you must parry a bomb from a sentry in order to progress. You can [kill the sentry while damage boosting](https://www.youtube.com/watch?v=fiRLsn9ZjcU) for the short walk up to the long hallway.
 
 ## Extending Mina’s dashes
 
