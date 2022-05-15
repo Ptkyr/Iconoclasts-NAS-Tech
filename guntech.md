@@ -1,5 +1,7 @@
 # Gun Tech
 
+While your gun can shoot things, most of the time it'll shoot at nothing to invoke Newton's Third Law<sup>TM</sup>.
+
 ## Gunboosts
 
 Shoot a charged shot downwards while airborne to gain height from the recoil; acts as a pseudo doublejump.
