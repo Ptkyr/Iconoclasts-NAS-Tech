@@ -1,5 +1,7 @@
 # Skips
 
+This section outlines some major skips in the Any% NAS route.
+
 ## Kerthunk skip
 Kerthunk skip abuses infinite wrench glitch to let you walk out of Mina’s dialogue right before the fight.
 
@@ -9,7 +11,7 @@ You should have a weird stuttering walk and when you go into the Kerthunk room, 
 ![](Media/thunkskip.gif)
 
 ## Fish jump 
-Abusing a combination of killboosts, gunboosts, and swinging off bolts to gain massive height, reaching the room before Inti much sooner than intended and skipping a key. Saves about 30 seconds, and a second fish jump can be used in NAS to skip the Robots 2 fight as well.
+Abusing a combination of killboosts, gunboosts, and swinging off bolts to gain massive height, we reach the room before Inti much sooner than intended and skip a key. Saves about 30 seconds, and a second fish jump can be used in NAS to skip the Robots 2 fight as well.
 
 Fastest and most consistent setup
 
@@ -36,13 +38,13 @@ There are two ways to do this skip, use whichever you are more comfortable with:
 ## White skip
 Notorious for its difficulty and necessity for top times, White skip is a frame perfect trick that occurs when you leave the water room right before the actual fight on a specific frame, skipping it completely and saving upwards of 45 seconds.
 
-The trick is consistent with only one frame and a very strict method, however loosely following the method may get you the skip anyways. Just keep in mind that the trick IS 100% consistent if you do it right.
+The trick is consistent with only one frame and a very strict method, however loosely following the method may get you the skip anyways. Just keep in mind that the trick *is* 100% consistent if you do it right.
 
-To perform White skip, hold `Up` + `Left` into the upper leftmost corner of the water pool until Mina crushes White. When she does this, switch to holding only `Up`, `Jump` out immediately, and snipe the frame you need to get the skip on the FIRST PAUSE. If you have sniped the frame successfully, hold `Left` in the pause menu and unpause. If you paused too early, you can try to pause buffer more to reach the frame, but the skip is no longer guaranteed.
+To perform White skip, hold `Up` + `Left` into the upper leftmost corner of the water pool until Mina crushes White. When she does this, switch to holding only `Up`, `Jump` out immediately, and snipe the frame you need to get the skip on the **first** pause. If you have sniped the frame successfully, hold `Left` in the pause menu and unpause. If you paused too early, you can try to pause buffer more to reach the frame, but the skip is no longer guaranteed.
 
 The trick is exponentially more difficult using this, but is the only consistent method found thus far.
 
-Obviously, the frame you want changes depending on whether or not you have Fleetfoot equipped. Only the non-Fleetfloot frame is covered in this doc, as you can just easily lose Fleetfoot in the rooms before the skip.
+Obviously, the frame you want changes depending on whether or not you have Fleetfoot equipped. Only the non-Fleetfloot frame is covered in this document, as you can easily lose Fleetfoot in the rooms before the skip.
 
 The only consistent cue known for White skip is Mina’s position relative to the background. Using the harder method, her right hand must be two pixels away from the edge of the small square as shown. Her sprite changes depending on when you pause, so if you miss the frame you may have to adjust to a different one.
 
@@ -59,18 +61,16 @@ The skip
 ![](Media/whiteskip.gif)
 
 ## Watchman 3 skip (W3 skip)
-Another skip hated by every runner, also frame perfect like White skip, but with absolutely zero cues or consistent setups to get it. The execution is incredibly simple, as all you have to do is press `Up` on the same frame that the elevator normally stops before the fight.
+Another skip hated by every runner, also frame perfect like White skip, but with absolutely zero cues or consistent setups to get it. The [execution](https://youtu.be/VKSlc5QBHQg?t=2209 ) is incredibly simple, as all you have to do is press `Up` on the same frame that the elevator normally stops before the fight.
 
-There are no repercussions for going for this skip, but because it’s so random and saves so much time (~30s), it sucks to have to reset to it if you need the timesave to get a good run.
-
-Here is a video of the skip → https://youtu.be/VKSlc5QBHQg?t=2209 
+There are no repercussions for attempting W3 skip, but because it’s so random and saves so much time (~30s), it sucks to have to reset to it if you need the timesave to get a good run.
 
 ## Shit skip
-An immensely important skip in Any% NAS, removing almost all lategame RNG from the run by skipping City One and One Concern East completely, saving ~15 minutes.
+An immensely important skip in Any% NAS. Removes almost all lategame RNG from the run by skipping City One and One Concern East completely, saving ~15 minutes.
 
-Performed by quantum leaping the One Concern West fast travel after defeating Black 1, gunboosting up, then stomping in the middle of the ring of controllers.
+[Performed](https://youtu.be/VKSlc5QBHQg?t=3429) by quantum leaping the One Concern West fast travel after defeating Black 1, gunboosting up, then stomping in the middle of the ring of controllers.
 
-You will eventually land in a rocket platform with much dimmer lighting than usual and can go straight to fighting Black 2 → https://youtu.be/VKSlc5QBHQg?t=3429 
+You will eventually land in a rocket platform with much dimmer lighting than usual and can go straight to fighting Black 2.
 
 Important to note is that setting your grounded position here makes the skip much faster, because you end up higher after the leap.
 
@@ -96,12 +96,12 @@ To know when you land, listen carefully for the sound Robin makes when she stomp
 
 Once you land, mash Dodger to the right and you will end up where the skip normally sends you → https://www.youtube.com/watch?v=MjlfZjWMZZM 
 	
-**NOTE:** do not mash random buttons while falling, just wait until you hear yourself land, then proceed to dodge right.
+**Note:** do not mash random buttons while falling. Just wait until you hear yourself land, then proceed to dodge right.
 
 ## Black 2 skip (B2 skip)
 Black 2 skip completely removes the rocket fight, the ivory beast fight, and the brain fight from Any% NAS, most Low% categories, and all 100% categories. It saves upwards of two minutes, and is completely consistent due to a recent development by DLKurosh. If you would like a more in-depth explanation, refer to his guide (will hyperlink). 
 
-In short, you download this [metronome](https://cdn.discordapp.com/attachments/537723651936485388/597935893218590740/Metronome.exe) and set a hotkey to start it at the same time you start a run. This lets you time an unpause for the skip, making it consistent as shown [here](https://www.youtube.com/watch?v=IfGN2UyxtpI&feature=youtu.be).
+In short, you use a [metronome](https://cdn.discordapp.com/attachments/537723651936485388/597935893218590740/Metronome.exe) and set a hotkey to start it on the same frame you start a run. This lets you time an unpause for the skip, making it consistent as shown [here](https://www.youtube.com/watch?v=IfGN2UyxtpI&feature=youtu.be).
 
 To perform the skip, you must jump into the top of the transition shown here which will zip you up due to the fact that the ceiling is actually at a different height between the two rooms.
 
@@ -122,14 +122,14 @@ Three things can happen upon zipping:
 
 * You fall under a different cutscene in the arena and softlock, meaning you have to close the game and try again
   * This is the least desirable option by far, but has always been completely avoidable
-  * To avoid the softlock, just hold `Left` the instant you enter the transition. Holding nothing or Right will almost always give you the softlock.
+  * To avoid the softlock, just hold `Left` the instant you enter the transition. Holding nothing or `Right` will almost always give you the softlock.
 
 ![](Media/b2skipsoftlock.gif)
 
 ## Impact skip
-Similar to shit skip in that it involves a vertical quantum leap. You QL the transition into Impact with a very far right x-coordinate and skip all four arenas, stomping straight into the cutscene before the Nightmares segment and saving about a minute.
+Similar to shit skip in that it involves a vertical quantum leap. You quantum leap the transition into Impact with a very far right x-coordinate and skip all four arenas, then stomp straight into the cutscene before the Nightmares segment and save about a minute.
 
-You should set your grounded position in the spot shown, generally just being as far right as possible in that room. Crawling makes you move slower, so doing that to find the correct spot is ideal. 
+You should set your grounded position in the spot shown, as far right as possible. It is best to crawl into position as you move slower. 
 
 ![](https://lh6.googleusercontent.com/HiNAbpL27BBTHqpLbVioZxksupHJZn5iiKWevA5fM0zUhKVqrC0HvRiD_wBJ-tjENE2Ix8rvFl4e58Wwo3DwQ0lyaj-qxTzprC4sXzXv1EAM6UEGTOvxgEYAS2LFuPwbbvDIBWDD)
 
@@ -137,7 +137,7 @@ A good cue to see if you have the right positioning is when you stand up, Robin�
 
 ![](https://lh6.googleusercontent.com/A8e0iMcrgNsXTft43Ce2B3OsFAS9yBNnzTViqvQ47neRce5dgT4dI4gxGWsn-E6Q-n4M8WeK1HIA_5ziPOx2ukbHhmmt35994oPd12nRpWFyZfzXC1dtMEDGz8XUu16jt_e0ypPC)
 
-From here, it’s some careful movement down to the transition, making sure not to touch the ground. If you know you might touch the ground, buffer a `Jump`. Buffered jumps do not reset your grounded position, and are safe to chain as long as you don’t mess up.
+From here, it’s some careful movement down to the transition, making sure not to touch the ground. If you know you might touch the ground, buffer a `Jump`. Buffered jumps are unlikely to reset grounded position, and are safe to chain as long as you don’t mess up.
  
 ![](Media/impactskip.gif)
  
@@ -147,4 +147,4 @@ Once you have successfully quantum leaped, the game will flash between black and
 
 Right after leaping, mash stomp. Do not mash random buttons after stomping as this will most likely mess up the trick, similar to shit skip. After you stomp, it’s some waiting (~30s) until you hear the sound cue that means Robin has entered the cutscene before Nightmares. Skip that cutscene and you’re on your way to the end of the game.
 
-Sometimes, you may land on top of the first Impact arena. This happens if your grounded position was too far left. The skip is easily doable if this happens, simply hold `Right` for 3-4s after the cutscene ends, and then stomp. The same waiting game ensues, then you skip the cutscene and end up in Nightmares → https://youtu.be/TaW8BlpQzP8?t=4308.
+Sometimes, you may land on top of the first Impact arena. This happens if your grounded position was too far left. [The skip is easily doable](https://youtu.be/TaW8BlpQzP8?t=4308) if this happens, simply hold `Right` for 3-4s after the cutscene ends, and then stomp. The same waiting game ensues, then you skip the cutscene and end up in Nightmares.
