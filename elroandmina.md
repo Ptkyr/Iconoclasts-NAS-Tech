@@ -1,5 +1,7 @@
 # Elro and Mina
 
+In some sections of the game you are unfortunately forced to play as Elro or Mina. These two don't have very interesting mechanics, but there are a couple cool tricks.
+
 ## Elro damage boosting
 
 Elro normally moves ridiculously slowly. This can be mitigated by damage boosting to store your speed when you take knockback from a hit. You do this by turning opposite to whatever direction you want to go, and holding where you want to go when you get hit. This provides persistent speed similar to how a BB works, and saves a lot of time in the walk up to the Lawrence fight.
