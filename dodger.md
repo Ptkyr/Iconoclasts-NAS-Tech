@@ -1,6 +1,22 @@
 # Dodger 
 Dodger is by far the best tweak in the game, and Any% NAS would probably be double the length without it.
 
+## Types of rolls
+* Jump roll
+  * Rolling right after jumping, gives a large arcing roll
+  
+![](Media/cutscenerc.gif)
+
+* Falling roll
+  * Rolling with some downwards momentum 
+
+![](Media/edgerc.gif)
+
+* Crouched roll
+  * Rolling from the ground by holding controller crouch and pressing `Jump` + `Wrench` on the same frame to preserve a crouched hitbox; lets you squeeze through one tile wide spaces.
+
+![](Media/cr.gif)
+
 ## Roll Cancels
 A way to optimize Dodger use, keeping the fast parts while minimizing the slower parts (i.e. the landing animation).
 
@@ -22,22 +38,6 @@ When Dodger is cancelled into water, you are given a crouched hitbox. This is us
 and for getting out of bounds in Airswim → https://youtu.be/a9OuEPKm-mw?t=1379 
 
 **Note:** you are only given a crouched hitbox with a grounded roll or roll immediately after dropping through a platform. However, you can Pete tech while airborne to retain a crouched hitbox.
-
-## Types of rolls
-* Jump roll
-  * Rolling right after jumping, gives a large arcing roll
-  
-![](Media/cutscenerc.gif)
-
-* Falling roll
-  * Rolling with some downwards momentum 
-
-![](Media/edgerc.gif)
-
-* Crouched roll
-  * Rolling from the ground by holding controller crouch and pressing `Jump` + `Wrench` on the same frame to preserve a crouched hitbox; lets you squeeze through one tile wide spaces.
-
-![](Media/cr.gif)
 
 ## Pete Tech
 
