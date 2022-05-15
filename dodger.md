@@ -40,7 +40,7 @@ When Dodger is cancelled into water, you are given a crouched hitbox. This is us
 
 ## Pete Tech
 
-Allows for the preservation of a crouched hitbox without the need to use controller crouch, and saves having to set up virtual controller if you are very lazy and play on keyboard (like Pete).
+Allows for the preservation of a crouched hitbox without the need to use controller crouch, and saves having to [set up virtual controller](https://www.youtube.com/watch?v=wgVph01OHNI) if you are very lazy and play on keyboard (like Pete).
 
 Aerial Pete tech is very simple and actually quite applicable. Instead of performing a normal falling roll, press `Jump` + `Wrench` on the same frame to do the roll and you will have a crouched hitbox. This keeps some of your previous momentum which allows for some niche roll cancels.
 
