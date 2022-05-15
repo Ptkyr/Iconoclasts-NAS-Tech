@@ -34,8 +34,7 @@ A ladder cancel
 
 ![](Media/ladderrc.gif)
 
-When Dodger is cancelled into water, you are given a crouched hitbox. This is useful for cutting corners for general movement in No Airswim → https://youtu.be/VKSlc5QBHQg?t=1131 
-and for getting out of bounds in Airswim → https://youtu.be/a9OuEPKm-mw?t=1379 
+When Dodger is cancelled into water, you are given a crouched hitbox. This is useful for [cutting corners](https://youtu.be/VKSlc5QBHQg?t=1131) for general movement in No Airswim and for [getting out of bounds](https://youtu.be/a9OuEPKm-mw?t=1379) in Airswim.
 
 **Note:** you are only given a crouched hitbox with a grounded roll or roll immediately after dropping through a platform. However, you can Pete tech while airborne to retain a crouched hitbox.
 
@@ -47,6 +46,6 @@ Aerial Pete tech is very simple and actually quite applicable. Instead of perfor
 
 ![](Media/petetechrc.gif)
 
-Grounded Pete tech is used where there isn’t space to fall into a one tile wide space. Using a buffered `Jump` in the crouched roll makes it much easier to keep a crouched hitbox than the regular keyboard way, which requires frame perfect inputs: https://youtu.be/lsE6ZqRwaI4 
+Grounded Pete tech is used where there isn’t space to fall into a one tile wide space. Using a buffered `Jump` in the crouched roll makes it much easier to keep a crouched hitbox than the [regular keyboard way](https://youtu.be/lsE6ZqRwaI4), which requires frame perfect inputs.
 
 **Note:** never use grounded Pete tech, just install virtual controller if you’re on keyboard. It’s much better and you can use controller crouch for easy interactions in Airswim as well.
