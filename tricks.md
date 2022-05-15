@@ -1,5 +1,7 @@
 # Tricks 
 
+This section covers general quirks of the game's mechanics.
+
 ## Fast charge shots
 With all gun types, you can manipulate how the charging works by pressing and holding `Gun` when the cooldown bar shows only a few pixels of red.
 
@@ -12,9 +14,9 @@ This allows for much faster charged shot releases by playing the animation of Ro
 ## Fast bolt grabbing
 When you `Wrench` on the ground, Robin makes a wide arcing motion starting from behind her to where she may eventually grab a bolt.
 
-Wrenching from the air is a much faster option than the slow grounded wrench in almost all scenarios, some exceptions being locked bolts, and the bolt after you first meet Mina.
+Wrenching from the air is a much faster option than the slow grounded wrench in almost all scenarios, some exceptions being locked bolts and the bolt after you first meet Mina.
 
-This means that for most grounded bolts in the game it’s better to wrench them from the air by falling into them.
+For most grounded bolts it’s best to wrench them from the air by falling into them.
 
 ![](Media/fastwrenchgrabs.gif)
 
