@@ -14,7 +14,7 @@ Shoot a charged shot in one lateral direction then quickly hold in the opposite 
 ![](Media/bb.gif)
 
 ## Crawlspace Backboosts
-Essentially a gronded backboost, but harder to pull off due to the increased deceleration from being on the ground the entire time.
+Essentially a grounded backboost, but harder to pull off due to the increased deceleration from being on the ground the entire time.
 
 Achieves the same speed a normal BB would.
 
